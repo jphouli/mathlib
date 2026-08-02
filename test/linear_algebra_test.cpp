@@ -2,7 +2,7 @@
 
 #include <math_lib/linear_algebra.hpp>
 
-using namespace ml::la;
+using namespace math::la;
 
 TEST(Vec2Test, Addition) {
   vec2<float> v1{1.0f, 2.0f};

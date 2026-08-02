@@ -3,7 +3,7 @@
 
 #include <cmath>
 
-namespace ml::la {
+namespace math::la {
 
 template <typename T>
 struct vec2 {
